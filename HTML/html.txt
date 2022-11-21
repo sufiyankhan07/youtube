@@ -1,0 +1,45 @@
+1)<div> // using like contener </div>
+
+2)<img // src="" using for adding image>
+
+3)text-align:center; // using center the text
+
+4)transition: opacity 1s // using for transition 
+
+5)SUBSCRIB:hover
+opacity:0.3; //using for blur text and button 
+
+6)font-family:Arial; // font name 
+
+7)text-decoration:underline;//using for text underline 
+
+8)color: // text color
+
+9)join:active //using for button click 
+
+10) border-radius:2px // using for border courve
+
+11)vertical-align:top // using for down image to upper image
+ 
+12) box-shadow:0,0,0 // black shadow when going on tweeter the format is horizontal , vertical, blur
+ 
+13)<input type="" palceholder=""> // taking input in placeholder
+
+14)<link rel="" href="styles/text.css"// styles folder name text.css fill name
+
+15)paddign-top,left,right etc// given all border padding 
+
+16)<a href="youtube.com">link is here</a>// using for refferal link 
+
+17)display:inline-block // blocking the image space using only image space and text space
+
+18)border-radius:20px; // to given image border in circle angle and squre angle etc
+
+19)how to write inline style
+<div style="background-color: lightblue;">div1</div>
+    <div style="background-color:lightpink;">div2</div>
+20)
+
+
+
+

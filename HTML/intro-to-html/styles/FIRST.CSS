@@ -1,0 +1,57 @@
+
+
+        .join:hover{
+            background-color: rgb(34, 79, 205);
+            color:white;
+        }
+        .SUBSCRIB:hover{ /* hover using for Taranzition when you go to subscrib button */
+            opacity: 0.8; /* using for fading means blur we have to given the rage 0-1 */
+        }
+        .join:active{    /* active for click task */
+            opacity: 0.5;
+    
+        }
+        .tweet:hover{
+            box-shadow: 10px ,10px,10px,black; /* black shadow when going on tweeter the format is horizontal , vertical, blur */
+        }
+       
+        .SUBSCRIB{
+            background-color: rgb(174, 36, 36);
+            color: white; /* color using for text color */
+            border: none;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 16px;
+            padding-right: 16px;
+            border-radius: 2px;/* boader circule */
+            cursor: pointer;  /* arov to show hand */
+            transition: opacity 1s ; /* for smothly working fading */
+            vertical-align:auto;
+            
+        }
+        .join{
+            background-color: white;
+            border-color:rgb(34, 79, 205);
+            border-style:solid ;
+            color: rgb(34, 79, 205);
+            height: 36px;
+            width: 62px;
+            border-radius: 2px;
+            margin-left: 10px;
+            cursor: pointer;
+            transition: background-color 1s, color 1s ;  
+    
+    
+        }
+        .tweet{
+            background-color: rgb(11, 156, 204);
+            color: white;
+            height: 30px;
+            width: 62px;
+            border-radius: 10px;
+            border-style: solid;
+            cursor: pointer;
+            font-size: 15px;
+            font-weight: bold;
+            margin-left: 10px;
+        }

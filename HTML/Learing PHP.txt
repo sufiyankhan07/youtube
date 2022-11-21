@@ -1,0 +1,27 @@
+php is a general-purpose scripting landguage geared toward web development
+
+interprted server-sid language 
+
+can be written alongside HTML within PHP tage<?php?>
+
+foten used with relational database such as MYSQL
+
+Relatively easy language to learn
+
+<?php
+// echo- output string, number, html, etc 
+ echo 124, hello, 10.5
+
+//print -workd like echo, but can only take in a single argument 
+print 123;
+
+//print_r() - print single values and arrays 
+print_r('hello');
+
+//var_dump() - retuns more info like data type and length
+var_dump("hello") //string var_dump(true) //boolean
+
+
+//var_exposrt() -similar to var_dump(). outputs a string representation of a variable 
+var_export('Hello') //'Hello'
+?>

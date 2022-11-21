@@ -1,0 +1,55 @@
+
+
+void main() {
+ int num1=10;
+ int num2=20;
+  List students=["steve", "Pawar", "Khan", "Gupta", 52, 48,11];
+  String name=students[3];
+// print('$name');
+  
+  
+  List<String> name2=["dsggg","dgdf","dghdfh","dggser"];
+  
+  students.addAll(name2);
+  
+  students.remove("Gupta");
+  
+  
+  
+  
+  print("The names are $students");
+  
+  
+  
+  String name3= "Sufiyan";
+  int age=23;
+  Map studentData={
+    name:"Khan",
+    age=21,
+    marks:91.2
+  };
+  
+  print('${studentData['name']}');
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

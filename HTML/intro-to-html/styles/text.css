@@ -1,0 +1,58 @@
+p{
+    font-family:Roboto; /* for all peragraph */
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.video{
+ /* font Name */
+font-size: 18px;
+font-weight: bold;
+width: 300px;
+line-height: 24px;
+margin-bottom: 5px;
+
+/*text-align: center; to center the text*/
+}
+.View{
+
+font-size: 14px;
+color: rgb(96,96,96);
+margin-top: 0px;
+margin-bottom: 20px;
+
+}
+.mar{
+
+font-size: 14px;
+color: rgb(96,96,96);
+margin-top: 0px;
+margin-bottom: 15px;
+
+}
+.talk{
+
+width: 280px;
+font-size: 14px;
+color: rgb(96,96,96); 
+line-height: 22px;
+margin-bottom: 100px;
+
+}
+.shop{
+margin-bottom: 50px;
+font-size: 14px;
+background-color: rgb(227, 65, 64);
+color: white;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 18px;
+transition: text-decoration 1s, opacity 1s;
+}
+.now{
+cursor: pointer;
+color: white;
+}
+.now:hover{
+text-decoration:underline; /* using for text undrline */
+opacity: 0.3;
+}
